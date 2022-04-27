@@ -1,6 +1,6 @@
- # AliDev Website
+# AliDev Website
  
- ## Leon Template
+## Leon Template
 
 Leon Template is an HTML5 CSS3 Full Responsive Web Template.
 
