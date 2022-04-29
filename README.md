@@ -22,4 +22,4 @@ Preview : [Qubly Template](https://abed-ctrl.github.io/Qubly_Template/)
 
 OtravelZ Template is an HTML5 CSS3 Javascript Full Responsive Web Template.
 
-Preview : https://abed-ctrl.github.io/OtravelZ_Template/
+Preview : [OtravelZ Template](https://abed-ctrl.github.io/OtravelZ_Template/)
