@@ -23,3 +23,9 @@ Preview : [Qubly Template](https://abed-ctrl.github.io/Qubly_Template/)
 OtravelZ Template is an HTML5 CSS3 Javascript Full Responsive Web Template.
 
 Preview : [OtravelZ Template](https://abed-ctrl.github.io/OtravelZ_Template/)
+
+## NFT Preview Card Component
+
+NFT Preview Card Component is an HTML5 CSS3 Full Responsive Web Component.
+
+Preview : [NFT Preview Card Component](https://abed-ctrl.github.io/NFT_Preview_Card_Component/)
