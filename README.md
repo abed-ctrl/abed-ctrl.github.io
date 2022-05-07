@@ -29,3 +29,9 @@ Preview : [OtravelZ Template](https://abed-ctrl.github.io/OtravelZ_Template/)
 NFT Preview Card Component is an HTML5 CSS3 Full Responsive Web Component.
 
 Preview : [NFT Preview Card Component](https://abed-ctrl.github.io/NFT_Preview_Card_Component/)
+
+# NFT Product Card Component
+
+NFT Product Card Component is an HTML5 CSS3 Full Responsive Web Component.
+
+Preview : [NFT Product Card Component](https://abed-ctrl.github.io/NFT_Product_Card_Component/)
