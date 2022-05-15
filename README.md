@@ -45,3 +45,9 @@ Preview : [NFT Product Card Component](https://abed-ctrl.github.io/NFT_Product_C
 Article Preview Card Component is an HTML5 CSS3 Javascript Full Responsive Web Component.
 
 Preview : [NFT Product Card Component](https://abed-ctrl.github.io/Article_Preview_Card_Component/)
+
+## Accordion Component
+
+Accordion Component is an HTML5 CSS3 Javascript Full Responsive Web Component.
+
+Preview : [Accordion Component](https://abed-ctrl.github.io/Accordion_Component/)
